@@ -62,5 +62,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "vue-pinia",
+    "date" : "2023-02-18T21:12:34.001753Z",
+    "properties" : {
+      "projectName" : "VuePortfolio",
+      "baseName" : "vuePortfolio",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
