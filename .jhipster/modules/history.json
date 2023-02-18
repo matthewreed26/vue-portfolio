@@ -26,5 +26,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "typescript",
+    "date" : "2023-02-18T21:12:33.681026Z",
+    "properties" : {
+      "projectName" : "VuePortfolio",
+      "baseName" : "vuePortfolio",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
