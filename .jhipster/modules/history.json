@@ -125,5 +125,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "cypress",
+    "date" : "2023-02-18T21:23:54.311245Z",
+    "properties" : {
+      "projectName" : "VuePortfolio",
+      "baseName" : "vuePortfolio",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
