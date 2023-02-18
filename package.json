@@ -1,0 +1,13 @@
+{
+  "name": "vue-portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "description": "VuePortfolio",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.14.0"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}
