@@ -89,5 +89,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-02-18T21:23:45.934070Z",
+    "properties" : {
+      "projectName" : "VuePortfolio",
+      "baseName" : "vuePortfolio",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
